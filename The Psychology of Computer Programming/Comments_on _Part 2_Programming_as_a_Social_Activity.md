@@ -1,0 +1,1 @@
+## Comments on Part 2: Programming as a Social Activity
