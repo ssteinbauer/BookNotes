@@ -1,5 +1,12 @@
 # 2018
+
+## 2018-02
+
+el Akkad, Omar (2017). American War: A novel. New York, NY: Knopf.
+
 ## 2018-01
+
+Kim, Gene; et al (2016). The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations. Portland, OR: IT Revolution Press. 
 
 Adzic, G. (2012). Impact Mapping. Provoking Thoughts.
 
