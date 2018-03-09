@@ -2,6 +2,10 @@
 
 ## 2018-02
 
+DeGradnis, Dominica (2017). Making Work Visible: Exposing Time Theft to Optimize Work & Flow. Portland, OR: IT Revolution Press.
+
+Banks, Iain (1990). Use of Weapons. New York, NY: Orbit, Hachette Book Group.
+
 el Akkad, Omar (2017). American War: A novel. New York, NY: Knopf.
 
 ## 2018-01
