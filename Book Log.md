@@ -1,5 +1,11 @@
 # 2018
 
+## 2018-03
+
+Gruver, G., Young, Mike (2012). A Practical Approach to Large-Scale Agile Development: How HP transformed LaserJet FutureSmart firmware. Indianapolis, Indiana: Addison-Wesley Professional.
+
+Le Guin, Ursula (1969). The Left Hand of Darkness. New York, New York: The Berkley Publishing Group.
+
 ## 2018-02
 
 DeGradnis, Dominica (2017). Making Work Visible: Exposing Time Theft to Optimize Work & Flow. Portland, OR: IT Revolution Press.
