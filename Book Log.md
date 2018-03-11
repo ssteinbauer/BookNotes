@@ -2,6 +2,8 @@
 
 ## 2018-03
 
+Miller Jr., Walter (1959). A Canticle for Leibowitz. New York, New York: HarperCollins Publishers. 
+
 Gruver, G., Young, Mike (2012). A Practical Approach to Large-Scale Agile Development: How HP transformed LaserJet FutureSmart firmware. Indianapolis, Indiana: Addison-Wesley Professional.
 
 Le Guin, Ursula (1969). The Left Hand of Darkness. New York, New York: The Berkley Publishing Group.
