@@ -36,6 +36,8 @@ Kua, Patrick (2013). The Retrospective Handbook: A guide for agile teams. Create
 
 # 2017
 
+Simons, Robert (2010). Seven Strategy Questions: A Simple Approach for Better Execution. Brighton, MA: Harvard Business Review Press.
+
 Wells, Martha (2017). All Systems Red: The Murderbot Diaries. New York, NY: A Tom Doherty Associates Book.
 
 Goldratt, Eliyahu (1997). Critical Chain. Great Barrington, MA: The North River Press Publishing Corporation.
