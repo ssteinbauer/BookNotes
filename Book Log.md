@@ -2,6 +2,8 @@
 
 ## 2018-03
 
+Saffer, Dan (2013). Microinteractions: Designing with details. Sebastopol, CA: O'Rielly Media, Inc.
+
 Miller Jr., Walter (1959). A Canticle for Leibowitz. New York, New York: HarperCollins Publishers. 
 
 Gruver, G., Young, Mike (2012). A Practical Approach to Large-Scale Agile Development: How HP transformed LaserJet FutureSmart firmware. Indianapolis, Indiana: Addison-Wesley Professional.
