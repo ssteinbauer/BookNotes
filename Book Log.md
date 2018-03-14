@@ -24,6 +24,8 @@ Kim, Gene; et al (2016). The DevOps Handbook: How to Create World-Class Agility,
 
 Adzic, G. (2012). Impact Mapping. Provoking Thoughts.
 
+Simons, Robert (2010). Seven Strategy Questions: A Simple Approach for Better Execution. Brighton, MA: Harvard Business Review Press.
+
 R., C., & Hastie, R. (2015). Wiser: Getting beyond group think to make groups smarter. Boston, MA: Harvard Business Press.
 
 Corey, James (2017). Persepolis Rising. New York, NY: Orbit, Hachette Book Group.
@@ -35,8 +37,6 @@ Humble, Jez; et al (2015). Lean Enterprise: how high performance organizations i
 Kua, Patrick (2013). The Retrospective Handbook: A guide for agile teams. CreateSpace Independent Publishing Platform.
 
 # 2017
-
-Simons, Robert (2010). Seven Strategy Questions: A Simple Approach for Better Execution. Brighton, MA: Harvard Business Review Press.
 
 Wells, Martha (2017). All Systems Red: The Murderbot Diaries. New York, NY: A Tom Doherty Associates Book.
 
