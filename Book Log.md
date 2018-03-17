@@ -2,6 +2,8 @@
 
 ## 2018-03
 
+Tarlinder, Alexander (2016). Developer Testing: Building quality software. Boston, MA: Addison-Wesley Professional.
+
 Saffer, Dan (2013). Microinteractions: Designing with details. Sebastopol, CA: O'Rielly Media, Inc.
 
 Miller Jr., Walter (1959). A Canticle for Leibowitz. New York, New York: HarperCollins Publishers. 
@@ -76,6 +78,12 @@ Corey, James (2016). Babylon's Ashes. New York, NY: Orbit, Hachette Book Group.
 
 Hitchens, C. (2009). Letters to a Young Contrarian. New York, NY: Basic Books.
 
+Gregory, J., Crispin, Lisa (2014). More Agile Testing: Learning journeys for the whole team . Boston, MA: Addison-Wesley Professional.
+
+Crispin, L., Gregory, Janet (2009). Agile Testing: A practical guide for testers and agile teams. Boston, MA: Addison-Wesley Professional.
+
 2016
 
-Brooks, John (2014). Business Adventures: twelve classic tales from the world of wall street. New York, NY. Open Road Integrated Media, Inc. 
+Brooks, John (2014). Business Adventures: twelve classic tales from the world of wall street. New York, NY. Open Road Integrated Media, Inc. (Original work published 1959)
+
+Goldratt, Eliyahu (2014). The Goal: A process of ongoing improvment (4th ed.). Great Barrington, MA: The North River Press Publishing Corporation.
