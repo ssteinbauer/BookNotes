@@ -82,8 +82,13 @@ Gregory, J., Crispin, Lisa (2014). More Agile Testing: Learning journeys for the
 
 Crispin, L., Gregory, Janet (2009). Agile Testing: A practical guide for testers and agile teams. Boston, MA: Addison-Wesley Professional.
 
-2016
+#2016
 
 Brooks, John (2014). Business Adventures: twelve classic tales from the world of wall street. New York, NY. Open Road Integrated Media, Inc. (Original work published 1959)
+
+
+#2015
+
+Watson, Ben (2014). Writing High-Performance .NET Code. (n.p.): Author
 
 Goldratt, Eliyahu (2014). The Goal: A process of ongoing improvment (4th ed.). Great Barrington, MA: The North River Press Publishing Corporation.
