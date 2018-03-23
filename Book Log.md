@@ -2,6 +2,8 @@
 
 ## 2018-03
 
+Forsgren, N., Humble, J., & Kim, G. (2018). Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations. Portland, OR: IT Revolution Press. 
+
 Tarlinder, Alexander (2016). Developer Testing: Building quality software. Boston, MA: Addison-Wesley Professional.
 
 Saffer, Dan (2013). Microinteractions: Designing with details. Sebastopol, CA: O'Rielly Media, Inc.
