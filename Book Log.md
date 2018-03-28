@@ -2,6 +2,8 @@
 
 ## 2018-03
 
+Poppendieck, M. & Poppendieck, T. (2013). The Lean Mindset: Ask the Right Questions. Boston, MA: Addison-Wesley Professional.
+
 Forsgren, N., Humble, J., & Kim, G. (2018). Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations. Portland, OR: IT Revolution Press. 
 
 Tarlinder, Alexander (2016). Developer Testing: Building quality software. Boston, MA: Addison-Wesley Professional.
