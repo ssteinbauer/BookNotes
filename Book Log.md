@@ -2,6 +2,8 @@
 
 ## 2018-03
 
+Hering, Mirco (2018). DevOps for the Modern Enterprise: Winning practices to transform a legacy IT organization. Portland, OR: IT Revolution Press. 
+
 Poppendieck, M. & Poppendieck, T. (2013). The Lean Mindset: Ask the Right Questions. Boston, MA: Addison-Wesley Professional.
 
 Forsgren, N., Humble, J., & Kim, G. (2018). Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations. Portland, OR: IT Revolution Press. 
