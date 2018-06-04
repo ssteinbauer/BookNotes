@@ -1,5 +1,15 @@
 # 2018
 
+## 2018-05
+
+Jordan, R., Sanderson, B. (2012). A Memory of Light. New York, New York. Tor.
+
+Jordan, R., Sanderson, B. (2010). Towers of Midnight. New York, New York. Tor.
+
+Jordan, R., Sanderson, B. (2009). The Gathering Storm. New York, New York. Tor.
+
+Morgan, Richard. (2003). Altered Carbon. Del Rey
+
 ## 2018-04
 
 ## 2018-03
