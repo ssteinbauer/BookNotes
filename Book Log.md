@@ -12,6 +12,8 @@ Morgan, Richard. (2003). Altered Carbon. Del Rey
 
 ## 2018-04
 
+Jordan, Robert. (2015). Knife of Dreams. New York, New York. Tor.
+
 ## 2018-03
 
 Hering, Mirco (2018). DevOps for the Modern Enterprise: Winning practices to transform a legacy IT organization. Portland, OR: IT Revolution Press. 
