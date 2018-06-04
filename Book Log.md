@@ -2,17 +2,17 @@
 
 ## 2018-05
 
-Jordan, R., Sanderson, B. (2012). A Memory of Light. New York, New York. Tor.
+Jordan, R., Sanderson, B. (2012). A Memory of Light. New York, New York: Tor.
 
-Jordan, R., Sanderson, B. (2010). Towers of Midnight. New York, New York. Tor.
+Jordan, R., Sanderson, B. (2010). Towers of Midnight. New York, New York: Tor.
 
-Jordan, R., Sanderson, B. (2009). The Gathering Storm. New York, New York. Tor.
+Jordan, R., Sanderson, B. (2009). The Gathering Storm. New York, New York: Tor.
 
-Morgan, Richard. (2003). Altered Carbon. Del Rey
+Morgan, Richard. (2003). Altered Carbon. New York, New York: Del Rey.
 
 ## 2018-04
 
-Jordan, Robert. (2005). Knife of Dreams. New York, New York. Tor.
+Jordan, Robert. (2005). Knife of Dreams. New York, New York: Tor.
 
 ## 2018-03
 
@@ -36,9 +36,9 @@ Le Guin, Ursula (1969). The Left Hand of Darkness. New York, New York: The Berkl
 
 DeGradnis, Dominica (2017). Making Work Visible: Exposing Time Theft to Optimize Work & Flow. Portland, OR: IT Revolution Press.
 
-Banks, Iain (1990). Use of Weapons. New York, NY: Orbit, Hachette Book Group.
+Banks, Iain (1990). Use of Weapons. New York, New York: Orbit, Hachette Book Group.
 
-el Akkad, Omar (2017). American War: A novel. New York, NY: Knopf.
+el Akkad, Omar (2017). American War: A novel. New York, New York: Knopf.
 
 ## 2018-01
 
@@ -50,7 +50,12 @@ Simons, Robert (2010). Seven Strategy Questions: A Simple Approach for Better Ex
 
 R., C., & Hastie, R. (2015). Wiser: Getting beyond group think to make groups smarter. Boston, MA: Harvard Business Press.
 
-Corey, James (2017). Persepolis Rising. New York, NY: Orbit, Hachette Book Group.
+Corey, James (2017). Persepolis Rising. New York, 
+
+
+
+
+: Orbit, Hachette Book Group.
 
 Kim, Gene; et al (2014). The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win. Portland, OR: IT Revolution Press. 
 
@@ -60,54 +65,69 @@ Kua, Patrick (2013). The Retrospective Handbook: A guide for agile teams. Create
 
 # 2017
 
-Wells, Martha (2017). All Systems Red: The Murderbot Diaries. New York, NY: A Tom Doherty Associates Book.
+Wells, Martha (2017). All Systems Red: The Murderbot Diaries. New York, New York: A Tom Doherty Associates Book.
 
 Goldratt, Eliyahu (1997). Critical Chain. Great Barrington, MA: The North River Press Publishing Corporation.
 
-Boot, Max (2014). Invisible armies: an epic history of guerrilla warfare from ancient times to the present. New York, NY: Liveright Publishing Corporation.
+Boot, Max (2014). Invisible armies: an epic history of guerrilla warfare from ancient times to the present. New York, New York: Liveright Publishing Corporation.
 
 Newman, Sam (2015). Building Microservices: Designing Fine-Grained Systems. Sebastopol, CA: OReilly Media.
 
 Martin, Robert (2017). Clean Architecture: A Craftsman's Guide to Software Structure and Design. Upper Saddle River, NJ: Prentice Hall.
 
-Jordan, Robert (2003). Crossroads of Twilight. New York, NY: TOR.
+Jordan, Robert (2003). Crossroads of Twilight. New York, New York: TOR.
 		
-Jordan, Robert (2000). Winter's Heart. New York, NY: TOR.
+Jordan, Robert (2000). Winter's Heart. New York, New York: TOR.
 		
-Jordan, Robert (1998). The Path of Daggers. New York, NY: TOR.
+Jordan, Robert (1998). The Path of Daggers. New York, New York: TOR.
 		
-Jordan, Robert (1996). A Crown of Swords. New York, NY: TOR.
+Jordan, Robert (1996). A Crown of Swords. New York, New York: TOR.
 		
-Jordan, Robert (1994). Lord of Chaos. New York, NY: TOR.
+Jordan, Robert (1994). Lord of Chaos. New York, New York: TOR.
 		
-Jordan, Robert (1993). The Fires of Heaven. New York, NY: TOR.
+Jordan, Robert (1993). The Fires of Heaven. New York, New York: TOR.
 		
-Jordan, Robert (1992). The Shadow Rising. New York, NY: TOR.
+Jordan, Robert (1992). The Shadow Rising. New York, New York: TOR.
 		
-Jordan, Robert (1991). The Dragon Reborn. New York, NY: TOR.
+Jordan, Robert (1991). The Dragon Reborn. New York, New York: TOR.
 		
-Jordan, Robert (1990). The Great Hunt. New York, NY: TOR.
+Jordan, Robert (1990). The Great Hunt. New York, New York: TOR.
 		
-Jordan, Robert (1990). The Eye of the World. New York, NY: TOR.
+Jordan, Robert (1990). The Eye of the World. New York, New York: TOR.
 
-Hitchens, Christopher (2004). Letters to a Young Contrarian. new York, NY: Basic Books, Hachette Book Group.
+Hitchens, Christopher (2004). Letters to a Young Contrarian. new York, New York: Basic Books, Hachette Book Group.
 
-Weinberg, Gerald (1998). The Psychology of Computer Programming: silver anniversary edition. New York, NY: Dorset House.
+Weinberg, Gerald (1998). The Psychology of Computer Programming: silver anniversary edition. New York, New York: Dorset House.
 
-Corey, James (2016). Babylon's Ashes. New York, NY: Orbit, Hachette Book Group.
+Corey, James (2016). Babylon's Ashes. New York, New York: Orbit, Hachette Book Group.
 
-Hitchens, C. (2009). Letters to a Young Contrarian. New York, NY: Basic Books.
+Hitchens, C. (2009). Letters to a Young Contrarian. New York, New York: Basic Books.
 
 Gregory, J., Crispin, Lisa (2014). More Agile Testing: Learning journeys for the whole team . Boston, MA: Addison-Wesley Professional.
 
 Crispin, L., Gregory, Janet (2009). Agile Testing: A practical guide for testers and agile teams. Boston, MA: Addison-Wesley Professional.
 
+Liu, Cixin. (2016). Death's End (K. Liu, Trans.). New York, New York: Tor.
+
+Liu, Cixin. (2015). The Dark Forest (J. Martinsen, Trans.). New York, New York: Tor.
+
+Liu, Cixin. (2014). The Three-Body Problem (K. Liu, Trans.). New York, New York: Tor.
+
+Gaiman, Neil (2017). Norse Mythology. New York, New York: W. W. Norton & Company.
+
 #2016
 
-Brooks, John (2014). Business Adventures: twelve classic tales from the world of wall street. New York, NY. Open Road Integrated Media, Inc. (Original work published 1959)
+Brooks, John (2014). Business Adventures: twelve classic tales from the world of wall street. New York, New York. Open Road Integrated Media, Inc. (Original work published 1959)
 
+Leckie, Ann. (2015). Ancillary Mercy. New York, New York: Orbit, Hachette Book Group.
+
+Leckie, Ann. (2014). Ancillary Sword. New York, New York: Orbit, Hachette Book Group.
+
+Saffer, Dan. (2013). Microinteractions: Full Color Edition: Designing with Details. Sebastopol, CA: O'Rielly Media, Inc. 
 
 #2015
+
+Leckie, Ann. (2013). Ancillary Justice. New York, New York: Orbit, Hachette Book Group.
 
 Watson, Ben (2014). Writing High-Performance .NET Code. (n.p.): Author
 
