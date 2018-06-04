@@ -12,7 +12,7 @@ Morgan, Richard. (2003). Altered Carbon. Del Rey
 
 ## 2018-04
 
-Jordan, Robert. (2015). Knife of Dreams. New York, New York. Tor.
+Jordan, Robert. (2005). Knife of Dreams. New York, New York. Tor.
 
 ## 2018-03
 
