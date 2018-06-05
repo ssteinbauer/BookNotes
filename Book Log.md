@@ -50,12 +50,7 @@ Simons, Robert (2010). Seven Strategy Questions: A Simple Approach for Better Ex
 
 R., C., & Hastie, R. (2015). Wiser: Getting beyond group think to make groups smarter. Boston, MA: Harvard Business Press.
 
-Corey, James (2017). Persepolis Rising. New York, 
-
-
-
-
-: Orbit, Hachette Book Group.
+Corey, James (2017). Persepolis Rising. New York, New York: Orbit, Hachette Book Group.
 
 Kim, Gene; et al (2014). The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win. Portland, OR: IT Revolution Press. 
 
