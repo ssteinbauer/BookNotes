@@ -1,5 +1,11 @@
 # 2018
 
+## 2018-06
+
+Poppendieck, M., Poppendieck, T. (2006). Implementing Lean Software Development: From Concept to Cash. Boston, MA: Addison-Wesley Professional.
+
+Harari, Yuval Noah. (2016). Homo Deus: A brief history of tomorrow. London, UK: Vintage.
+
 ## 2018-05
 
 Jordan, R., Sanderson, B. (2012). A Memory of Light. New York, New York: Tor.
