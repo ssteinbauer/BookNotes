@@ -2,6 +2,10 @@
 
 ## 2018-06
 
+Day, David. (2015). An Atlas of Tolkien. San Diego, CA: Thunder Bay Press. 
+
+Adams, Mark. (2018). Tip of the Iceberg: My 3,000-Mile Journey Around Wild Alaska, the Last Great American Frontier. New York, New York: Dutton.
+
 Poppendieck, M., Poppendieck, T. (2006). Implementing Lean Software Development: From Concept to Cash. Boston, MA: Addison-Wesley Professional.
 
 Harari, Yuval Noah. (2016). Homo Deus: A brief history of tomorrow. London, UK: Vintage.
