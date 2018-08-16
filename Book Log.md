@@ -4,7 +4,7 @@
 Tolkein, J.R.R. (2017). Beren and Lúthien. C. Tolkein (Ed.). New York, New York: HarperCollins Publishers.
 
 ## 2018-07
-???
+Cohn, Mike. (2005). Agile Estimating and Planning. Upper Saddle River, NJ: Prentice Hall.
 
 ## 2018-06
 
