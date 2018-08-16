@@ -126,7 +126,7 @@ Liu, Cixin. (2014). The Three-Body Problem (K. Liu, Trans.). New York, New York:
 
 Gaiman, Neil (2017). Norse Mythology. New York, New York: W. W. Norton & Company.
 
-#2016
+# 2016
 
 Brooks, John (2014). Business Adventures: twelve classic tales from the world of wall street. New York, New York. Open Road Integrated Media, Inc. (Original work published 1959)
 
@@ -136,7 +136,7 @@ Leckie, Ann. (2014). Ancillary Sword. New York, New York: Orbit, Hachette Book G
 
 Saffer, Dan. (2013). Microinteractions: Full Color Edition: Designing with Details. Sebastopol, CA: O'Rielly Media, Inc. 
 
-#2015
+# 2015
 
 Leckie, Ann. (2013). Ancillary Justice. New York, New York: Orbit, Hachette Book Group.
 
