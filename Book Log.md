@@ -1,5 +1,11 @@
 # 2018
 
+## 2018-08
+Tolkein, J.R.R. (2017). Beren and Lúthien. C. Tolkein (Ed.). New York, New York: HarperCollins Publishers.
+
+## 2018-07
+???
+
 ## 2018-06
 
 Day, David. (2015). An Atlas of Tolkien. San Diego, CA: Thunder Bay Press. 
