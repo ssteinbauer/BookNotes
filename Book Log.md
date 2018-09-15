@@ -1,9 +1,17 @@
 # 2018
 
+## 2018-09
+
+Sharma, Sanjeev. (2017). The DevOps Adoption Playbook: A guid to adopting DevOps in a Multie-Speed IT Enterprise. Indianapolis, Indiana. John Wily & Sons, Inc.
+
+Stephenson, Neal. (2005). The Sytem of the World. New York, New York: HarperCollins Publishers.
+
 ## 2018-08
+
 Tolkein, J.R.R. (2017). Beren and Lúthien. C. Tolkein (Ed.). New York, New York: HarperCollins Publishers.
 
 ## 2018-07
+
 Cohn, Mike. (2005). Agile Estimating and Planning. Upper Saddle River, NJ: Prentice Hall.
 
 ## 2018-06
@@ -137,6 +145,10 @@ Leckie, Ann. (2014). Ancillary Sword. New York, New York: Orbit, Hachette Book G
 Saffer, Dan. (2013). Microinteractions: Full Color Edition: Designing with Details. Sebastopol, CA: O'Rielly Media, Inc. 
 
 # 2015
+
+Stephenson, Neal. (2005). The Confusion. New York, New York: HarperCollins Publishers.
+
+Stephenson, Neal. (2005). Quicksilver. New York, New York: HarperCollins Publishers.
 
 Leckie, Ann. (2013). Ancillary Justice. New York, New York: Orbit, Hachette Book Group.
 
