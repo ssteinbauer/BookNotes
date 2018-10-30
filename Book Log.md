@@ -1,8 +1,16 @@
 # 2018
 
+## 2018-10
+
+Jemisin, N.K. (2017). The Stone Sky. New York, New York: Orbit, Hachette Book Group.
+
+Jemisin, N.K. (2016). The Obelisk Gate. New York, New York: Orbit, Hachette Book Group.
+
 ## 2018-09
 
-Sharma, Sanjeev. (2017). The DevOps Adoption Playbook: A guid to adopting DevOps in a Multie-Speed IT Enterprise. Indianapolis, Indiana. John Wily & Sons, Inc.
+Jemisin, N.K. (2015). The Fifth Season. New York, New York: Orbit, Hachette Book Group.
+
+Sharma, Sanjeev. (2017). The DevOps Adoption Playbook: A guide to adopting DevOps in a Multie-Speed IT Enterprise. Indianapolis, Indiana. John Wily & Sons, Inc.
 
 Stephenson, Neal. (2005). The Sytem of the World. New York, New York: HarperCollins Publishers.
 
