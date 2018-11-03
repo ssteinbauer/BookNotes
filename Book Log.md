@@ -2,6 +2,8 @@
 
 ## 2018-10
 
+Grove, Andrew S. (2015). High Output Management. New York, New York. Vintage Books, Penguin Random House Ltd.
+
 Jemisin, N.K. (2017). The Stone Sky. New York, New York: Orbit, Hachette Book Group.
 
 Jemisin, N.K. (2016). The Obelisk Gate. New York, New York: Orbit, Hachette Book Group.
