@@ -2,6 +2,8 @@
 
 ## 2018-10
 
+Adams, Mark. (2016). Turn right at Machu Picchu: rediscovering the lost city one step at a time. New York, New York: Dutton, Penguin Random House, LLC.
+
 Grove, Andrew S. (2015). High Output Management. New York, New York: Vintage Books, Penguin Random House Ltd.
 
 Jemisin, N.K. (2017). The Stone Sky. New York, New York: Orbit, Hachette Book Group.
