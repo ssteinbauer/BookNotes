@@ -1,8 +1,12 @@
 # 2018
 
-## 2018-10
+## 2018-11
+
+Rework...
 
 Adams, Mark. (2016). Turn right at Machu Picchu: rediscovering the lost city one step at a time. New York, New York: Dutton, Penguin Random House, LLC.
+
+## 2018.10
 
 Grove, Andrew S. (2015). High Output Management. New York, New York: Vintage Books, Penguin Random House Ltd.
 
