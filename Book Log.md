@@ -2,6 +2,8 @@
 
 ## 2018-11
 
+Flash Boys...
+
 Rework...
 
 Adams, Mark. (2016). Turn right at Machu Picchu: rediscovering the lost city one step at a time. New York, New York: Dutton, Penguin Random House, LLC.
