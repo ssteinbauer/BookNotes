@@ -1,5 +1,9 @@
 # 2018
 
+## 2018-12
+
+Martichenko, Robert (2012). Everything I Know About Lean I Learned in First Grade, 2nd Ed. Cambridge, MA: Lean Enterprises Institute, Inc.
+
 ## 2018-11
 
 Flash Boys...
@@ -20,9 +24,9 @@ Jemisin, N.K. (2016). The Obelisk Gate. New York, New York: Orbit, Hachette Book
 
 Jemisin, N.K. (2015). The Fifth Season. New York, New York: Orbit, Hachette Book Group.
 
-Sharma, Sanjeev. (2017). The DevOps Adoption Playbook: A guide to adopting DevOps in a Multie-Speed IT Enterprise. Indianapolis, Indiana. John Wily & Sons, Inc.
+Sharma, Sanjeev (2017). The DevOps Adoption Playbook: A guide to adopting DevOps in a Multie-Speed IT Enterprise. Indianapolis, Indiana. John Wily & Sons, Inc.
 
-Stephenson, Neal. (2005). The Sytem of the World. New York, New York: HarperCollins Publishers.
+Stephenson, Neal (2005). The Sytem of the World. New York, New York: HarperCollins Publishers.
 
 ## 2018-08
 
@@ -30,17 +34,17 @@ Tolkein, J.R.R. (2017). Beren and Lúthien. C. Tolkein (Ed.). New York, New York
 
 ## 2018-07
 
-Cohn, Mike. (2005). Agile Estimating and Planning. Upper Saddle River, NJ: Prentice Hall.
+Cohn, Mike (2005). Agile Estimating and Planning. Upper Saddle River, NJ: Prentice Hall.
 
 ## 2018-06
 
-Day, David. (2015). An Atlas of Tolkien. San Diego, CA: Thunder Bay Press. 
+Day, David (2015). An Atlas of Tolkien. San Diego, CA: Thunder Bay Press. 
 
-Adams, Mark. (2018). Tip of the Iceberg: My 3,000-Mile Journey Around Wild Alaska, the Last Great American Frontier. New York, New York: Dutton.
+Adams, Mark (2018). Tip of the Iceberg: My 3,000-Mile Journey Around Wild Alaska, the Last Great American Frontier. New York, New York: Dutton.
 
 Poppendieck, M., Poppendieck, T. (2006). Implementing Lean Software Development: From Concept to Cash. Boston, MA: Addison-Wesley Professional.
 
-Harari, Yuval Noah. (2016). Homo Deus: A brief history of tomorrow. London, UK: Vintage.
+Harari, Yuval Noah (2016). Homo Deus: A brief history of tomorrow. London, UK: Vintage.
 
 ## 2018-05
 
@@ -50,11 +54,11 @@ Jordan, R., Sanderson, B. (2010). Towers of Midnight. New York, New York: Tor.
 
 Jordan, R., Sanderson, B. (2009). The Gathering Storm. New York, New York: Tor.
 
-Morgan, Richard. (2003). Altered Carbon. New York, New York: Del Rey.
+Morgan, Richard (2003). Altered Carbon. New York, New York: Del Rey.
 
 ## 2018-04
 
-Jordan, Robert. (2005). Knife of Dreams. New York, New York: Tor.
+Jordan, Robert (2005). Knife of Dreams. New York, New York: Tor.
 
 ## 2018-03
 
