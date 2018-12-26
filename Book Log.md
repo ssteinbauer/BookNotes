@@ -2,6 +2,8 @@
 
 ## 2018-12
 
+The Kitty Hawk Venture...
+
 Gruver, G., Mouser, T. (2015). Leading the Transformation: Applying Agile and DevOps Principles at Scale. Portland, OR: IT Revolution Press.
 
 Martichenko, Robert (2012). Everything I Know About Lean I Learned in First Grade, 2nd Ed. Cambridge, MA: Lean Enterprises Institute, Inc.
