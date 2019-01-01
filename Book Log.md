@@ -1,6 +1,8 @@
-# 2018
+# 2018 (43 books)
 
 ## 2018-12
+
+Brusatte, Steve. (2018). The Rise and Fall of the Dinosaurs: A new history of the lost world. New York City, NY: William Morrow & Co.
 
 The Kitty Hawk Venture...
 
