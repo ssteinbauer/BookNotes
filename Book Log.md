@@ -1,3 +1,9 @@
+# 2019 (1 book)
+
+## 2019-01
+
+Gaiman, N., Pratchett, Terry. (2006). Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch. New York City, New York: William Morrow.
+
 # 2018 (43 books)
 
 ## 2018-12
@@ -18,7 +24,7 @@ Rework...
 
 Adams, Mark. (2016). Turn right at Machu Picchu: rediscovering the lost city one step at a time. New York, New York: Dutton, Penguin Random House, LLC.
 
-## 2018.10
+## 2018-10
 
 Grove, Andrew S. (2015). High Output Management. New York, New York: Vintage Books, Penguin Random House Ltd.
 
