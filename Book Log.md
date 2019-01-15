@@ -2,9 +2,13 @@
 
 ## 2019-01
 
+American Wolf: A True Story of Survival and Obsession in the West
+
+Liquid Software
+
 Gaiman, N., Pratchett, Terry. (2006). Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch. New York City, New York: William Morrow.
 
-# 2018 (43 books)
+# 2018 (44 books)
 
 ## 2018-12
 
@@ -17,6 +21,8 @@ Gruver, G., Mouser, T. (2015). Leading the Transformation: Applying Agile and De
 Martichenko, Robert (2012). Everything I Know About Lean I Learned in First Grade, 2nd Ed. Cambridge, MA: Lean Enterprises Institute, Inc.
 
 ## 2018-11
+
+97 Things Every Software Architect 
 
 Flash Boys...
 
