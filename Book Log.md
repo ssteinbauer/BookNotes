@@ -1,4 +1,12 @@
-# 2019 (1 book)
+# 2019 (5 book)
+
+## 2019-03
+
+Kuang, R.F. (2018). The Poppy War: A Novel. HarperCollins Publishers
+
+Leckie, Ann. (2019).The Raven Tower. New York, New York: Orbit, Hachette Book Group.
+
+## 2019-02
 
 ## 2019-01
 
@@ -52,7 +60,7 @@ Tolkein, J.R.R. (2017). Beren and Lúthien. C. Tolkein (Ed.). New York, New York
 
 ## 2018-07
 
-Cohn, Mike (2005). Agile Estimating and Planning. Upper Saddle River, NJ: Prentice Hall.
+Cohn, Mike (2005). Agile Estimating and Pl lecking. Upper Saddle River, NJ: Prentice Hall.
 
 ## 2018-06
 
