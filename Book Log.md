@@ -1,4 +1,10 @@
-# 2019 (10 book)
+# 2019 (12 book)
+
+# 2019-12
+
+Man, John (2012). he Way of Kings
+
+Sanderson, Brandon (2010). Ninja: 1000 years of the shadow warrior.
 
 # 2019-05
 
