@@ -1,10 +1,16 @@
-# 2019 (12 book)
+# 2019 (14 book)
 
 # 2019-12
 
 Man, John (2012). he Way of Kings
 
 Sanderson, Brandon (2010). Ninja: 1000 years of the shadow warrior.
+
+# 2019-06
+
+The Coaching Habit
+
+Checklist Manifesto
 
 # 2019-05
 
