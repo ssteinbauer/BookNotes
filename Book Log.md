@@ -1,10 +1,24 @@
+# 2020
+
+# 2020-02
+
+Escaping the Build Trap
+
+# 2020-01
+
+Sanderson, Brandon (2017). Oathbringer.
+
+Sanderson, Brandon (2014). Words of Radiance
+
+Humble Inquiry
+
 # 2019 (14 book)
 
 # 2019-12
 
-Man, John (2012). he Way of Kings
+Sanderson, Brandon (2010). The Way of Kings.
 
-Sanderson, Brandon (2010). Ninja: 1000 years of the shadow warrior.
+Man, John (2012). Ninja: 1000 years of the shadow warrior.
 
 # 2019-06
 
