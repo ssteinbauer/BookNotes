@@ -12,9 +12,15 @@ Sanderson, Brandon (2014). Words of Radiance
 
 Humble Inquiry
 
+HBR Guide to Coaching Employees
+
 # 2019 (14 book)
 
 # 2019-12
+
+Turn the ship around
+
+The surprising science of meetings
 
 Sanderson, Brandon (2010). The Way of Kings.
 
