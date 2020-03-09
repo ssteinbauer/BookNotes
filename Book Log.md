@@ -1,5 +1,9 @@
 # 2020
 
+# 2020-03
+
+EQ Applied
+
 # 2020-02
 
 Escaping the Build Trap
@@ -14,7 +18,7 @@ Humble Inquiry
 
 HBR Guide to Coaching Employees
 
-# 2019 (14 book)
+# 2019 (17 book)
 
 # 2019-12
 
@@ -25,6 +29,10 @@ The surprising science of meetings
 Sanderson, Brandon (2010). The Way of Kings.
 
 Man, John (2012). Ninja: 1000 years of the shadow warrior.
+
+# 2019-09
+
+Grand Strategy
 
 # 2019-06
 
