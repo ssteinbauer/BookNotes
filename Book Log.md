@@ -2,6 +2,8 @@
 
 # 2020-03
 
+O'Hanlon, Michael E. (2019). The Senkaku Paradox: Risking Great Power War Over Small Stakes.
+
 EQ Applied
 
 # 2020-02
