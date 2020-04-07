@@ -1,5 +1,9 @@
 # 2020
 
+# 2020-04
+
+Kuang, R.F. (2019). The Dragon Republic. HarperCollins Publishers.
+
 # 2020-03
 
 O'Hanlon, Michael E. (2019). The Senkaku Paradox: Risking Great Power War Over Small Stakes.
