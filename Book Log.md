@@ -1,8 +1,14 @@
+# 2020-07
+
+Heath, Chip, Heath, D. (2013). Decisive - How to Make Better Choices in Life and Work.
+
+Smil, Vaclav (2017). Energy and Civilization - A History.
+
+Prose, Francine (2015). Lovers at the Chameleon Club, Paris 1932: A Novel.
+
 # 2020-06
 
-The fall of gondolin
-
-##
+Tolkien, To, J. R. R., Tolkien, C. (2018). The Fall of Gondolin.
 
 ## 2020-04
 
@@ -14,11 +20,11 @@ Kuang, R.F. (2019). The Dragon Republic. HarperCollins Publishers.
 
 O'Hanlon, Michael E. (2019). The Senkaku Paradox: Risking Great Power War Over Small Stakes.
 
-EQ Applied
+Bariso, Justin (2018) EQ Applied -  The Real-World Guide to Emotional Intelligence.
 
 # 2020-02
 
-Escaping the Build Trap
+Perri, Mellisa (2018). Escaping the Build Trap - Escaping the Build Trap.
 
 # 2020-01
 
@@ -26,7 +32,7 @@ Sanderson, Brandon (2017). Oathbringer.
 
 Sanderson, Brandon (2014). Words of Radiance
 
-Humble Inquiry
+Edgar H. Schein (2013). Humble Inquiry - The Gentle Art of Asking Instead of Telling.
 
 HBR Guide to Coaching Employees
 
