@@ -1,3 +1,7 @@
+# 2020-08
+
+Gibson, Wilson, Sterling, B. (1990). The Difference Engine. Spectra.
+
 # 2020-07
 
 Heath, Chip, Heath, D. (2013). Decisive - How to Make Better Choices in Life and Work.
