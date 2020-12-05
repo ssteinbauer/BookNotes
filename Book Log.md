@@ -1,3 +1,18 @@
+# 2020-12
+
+Epstein, David (2019). Range.
+
+Young, Scott (2019). Ultralearning.
+
+Sanderson, Brandon (2020). Rythm of War.
+
+# 2020-11
+
+Ricks, Thomas (2017). Churchill and Orwell: The Fight for Freedom.
+
+Chernow, Ron. (2017). Grant.
+
+
 # 2020-08
 
 Gibson, Wilson, Sterling, B. (1990). The Difference Engine. Spectra.
