@@ -1,5 +1,7 @@
 # 2020-12
 
+Feynman, Richard (1998). The Meaning of It All: Thoughts of a Citizen-Scientist. Basic Books
+
 Epstein, David (2019). Range.
 
 Young, Scott (2019). Ultralearning.
