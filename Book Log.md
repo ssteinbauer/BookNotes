@@ -1,3 +1,11 @@
+# 2021
+
+## 2021-01
+
+Siegel, D.J, Bryson, T.P. (2011). The Whole-Brain Child. Bantam Trade Paperback.
+
+Hongoltz-Hetling, Matthew (2020). A Libertarian Walks Into a Bear - The Utopian Plot to Liberate an American Town (And Some Bears). PublicAffairs.
+
 # 2020-12
 
 Feynman, Richard (1998). The Meaning of It All: Thoughts of a Citizen-Scientist. Basic Books
