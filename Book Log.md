@@ -10,7 +10,7 @@ Siegel, D.J, Bryson, T.P. (2011). The Whole-Brain Child. Bantam Trade Paperback.
 
 Hongoltz-Hetling, Matthew (2020). A Libertarian Walks Into a Bear - The Utopian Plot to Liberate an American Town (And Some Bears). PublicAffairs.
 
-# 2020-12
+## 2020-12
 
 Feynman, Richard (1998). The Meaning of It All: Thoughts of a Citizen-Scientist. Basic Books
 
@@ -18,18 +18,17 @@ Goldsworthy, Adrian (2020). Philip and Alexander - Kings and Conquerors. Basic B
 
 Sanderson, Brandon (2020). Rythm of War.
 
-# 2020-11
+## 2020-11
 
 Ricks, Thomas (2017). Churchill and Orwell: The Fight for Freedom.
 
 Chernow, Ron. (2017). Grant.
 
-
-# 2020-08
+## 2020-08
 
 Gibson, Wilson, Sterling, B. (1990). The Difference Engine. Spectra.
 
-# 2020-07
+## 2020-07
 
 Heath, Chip, Heath, D. (2013). Decisive - How to Make Better Choices in Life and Work.
 
@@ -37,7 +36,7 @@ Smil, Vaclav (2017). Energy and Civilization - A History.
 
 Prose, Francine (2015). Lovers at the Chameleon Club, Paris 1932: A Novel.
 
-# 2020-06
+## 2020-06
 
 Tolkien, To, J. R. R., Tolkien, C. (2018). The Fall of Gondolin.
 
@@ -47,17 +46,17 @@ Steiner, George (2009). At the New Yorker. New Directions.
 
 Kuang, R.F. (2019). The Dragon Republic. HarperCollins Publishers.
 
-# 2020-03
+## 2020-03
 
 O'Hanlon, Michael E. (2019). The Senkaku Paradox: Risking Great Power War Over Small Stakes.
 
 Bariso, Justin (2018) EQ Applied -  The Real-World Guide to Emotional Intelligence.
 
-# 2020-02
+## 2020-02
 
 Perri, Mellisa (2018). Escaping the Build Trap - Escaping the Build Trap.
 
-# 2020-01
+## 2020-01
 
 Sanderson, Brandon (2017). Oathbringer.
 
@@ -69,7 +68,7 @@ HBR Guide to Coaching Employees
 
 # 2019 (17 book)
 
-# 2019-12
+## 2019-12
 
 Turn the ship around
 
@@ -79,21 +78,21 @@ Sanderson, Brandon (2010). The Way of Kings.
 
 Man, John (2012). Ninja: 1000 years of the shadow warrior.
 
-# 2019-09
+## 2019-09
 
 Grand Strategy
 
-# 2019-06
+## 2019-06
 
 The Coaching Habit
 
 Checklist Manifesto
 
-# 2019-05
+## 2019-05
 
 God: A human history
 
-# 2019-04
+## 2019-04
 
 Tiamats Revenge
 
