@@ -2,6 +2,10 @@
 
 ## 2021-01
 
+Young, Scott (2019). Ultralearning.
+
+Epstein, David (2019). Range.
+
 Siegel, D.J, Bryson, T.P. (2011). The Whole-Brain Child. Bantam Trade Paperback.
 
 Hongoltz-Hetling, Matthew (2020). A Libertarian Walks Into a Bear - The Utopian Plot to Liberate an American Town (And Some Bears). PublicAffairs.
@@ -10,9 +14,7 @@ Hongoltz-Hetling, Matthew (2020). A Libertarian Walks Into a Bear - The Utopian 
 
 Feynman, Richard (1998). The Meaning of It All: Thoughts of a Citizen-Scientist. Basic Books
 
-Epstein, David (2019). Range.
-
-Young, Scott (2019). Ultralearning.
+Goldsworthy, Adrian (2020). Philip and Alexander - Kings and Conquerors. Basic Books.
 
 Sanderson, Brandon (2020). Rythm of War.
 
