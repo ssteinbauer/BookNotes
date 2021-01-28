@@ -2,7 +2,7 @@
 
 ## 2021-01
 
-The Whole Brain Child...
+Mandel, Emily St. John (2020). The Glass Hotel. Alfred A. Knopff.
 
 Young, Scott (2019). Ultralearning.
 
