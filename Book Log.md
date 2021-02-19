@@ -1,5 +1,11 @@
 # 2021
 
+## 2021-02
+
+Edmondson, Amy C. (2018). The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth. Wiley.
+
+Gates, Bill (2021). How to avoid a climate disaster. Alfred A. Knopff
+
 ## 2021-01
 
 Mandel, Emily St. John (2020). The Glass Hotel. Alfred A. Knopff.
