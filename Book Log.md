@@ -1,3 +1,9 @@
+# 2022
+
+## 2022-02
+
+MacIntyre, Ben (2018). The Spy and the Traitor
+
 # 2021
 
 ## 2021-02
