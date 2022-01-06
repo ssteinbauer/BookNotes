@@ -6,6 +6,29 @@ MacIntyre, Ben (2018). The Spy and the Traitor
 
 # 2021
 
+Leviathan falls
+
+The story of Hu
+
+Assassin's quest
+
+Royal assassin
+
+Assassin's apprentice
+
+Crucial conversations
+	
+Bird by Bird: Some Instructions on...
+	
+Draft No. 4: On the Writing Process
+
+Stamped from the beginning
+
+Between the world and me
+
+Extreme ownership
+
+
 ## 2021-02
 
 Edmondson, Amy C. (2018). The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth. Wiley.
